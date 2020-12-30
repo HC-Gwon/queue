@@ -1,3 +1,4 @@
+# circular queue 와 관련된 문제
 import sys
 
 N, K = sys.stdin.readline().rstrip().split()    # N : 전체 인원, K : 제거
